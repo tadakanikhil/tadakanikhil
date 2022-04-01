@@ -1,2 +1,3 @@
 index is a new text file pulled from the branch and editing in the master
 creating a conflict from master and merge in branch
+github gui 
